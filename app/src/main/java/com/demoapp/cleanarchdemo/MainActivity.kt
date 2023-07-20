@@ -1,11 +1,11 @@
-package com.demoapp.cleanarchdemo.presentation
+package com.demoapp.cleanarchdemo
 
 import android.os.Bundle
 import androidx.compose.material.Surface
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.material.MaterialTheme
-import com.demoapp.cleanarchdemo.presentation.ui.theme.CleanArchDemoTheme
+import com.demoapp.cleanarchdemo.theme.CleanArchDemoTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
