@@ -1,4 +1,4 @@
-package com.demoapp.cleanarchdemo.presentation.ui.theme
+package com.demoapp.cleanarchdemo.theme
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.darkColors

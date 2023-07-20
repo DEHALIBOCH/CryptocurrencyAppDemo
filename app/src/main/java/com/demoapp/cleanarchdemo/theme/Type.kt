@@ -1,4 +1,4 @@
-package com.demoapp.cleanarchdemo.presentation.ui.theme
+package com.demoapp.cleanarchdemo.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
