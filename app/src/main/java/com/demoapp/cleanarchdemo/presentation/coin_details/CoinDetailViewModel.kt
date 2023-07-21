@@ -2,13 +2,11 @@ package com.demoapp.cleanarchdemo.presentation.coin_details
 
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
-import androidx.compose.ui.unit.Constraints
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import com.demoapp.cleanarchdemo.common.Constants
 import com.demoapp.cleanarchdemo.common.Resource
 import com.demoapp.cleanarchdemo.domain.use_case.get_coin.GetCoinUseCase
-import com.demoapp.cleanarchdemo.presentation.coin_list.CoinListState
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.onEach
 import javax.inject.Inject

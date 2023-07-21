@@ -1,6 +1,5 @@
 package com.demoapp.cleanarchdemo.di
 
-import androidx.compose.ui.unit.Constraints
 import com.demoapp.cleanarchdemo.common.Constants
 import com.demoapp.cleanarchdemo.data.remote.CoinApi
 import com.demoapp.cleanarchdemo.data.repository.CoinRepositoryImpl

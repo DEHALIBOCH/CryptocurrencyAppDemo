@@ -5,8 +5,6 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.demoapp.cleanarchdemo.common.Resource
-import com.demoapp.cleanarchdemo.domain.model.Coin
-import com.demoapp.cleanarchdemo.domain.repository.CoinRepository
 import com.demoapp.cleanarchdemo.domain.use_case.get_coins.GetCoinsUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.launchIn
