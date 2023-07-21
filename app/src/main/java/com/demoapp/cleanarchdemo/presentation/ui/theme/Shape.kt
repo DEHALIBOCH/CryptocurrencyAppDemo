@@ -1,4 +1,4 @@
-package com.demoapp.cleanarchdemo.theme
+package com.demoapp.cleanarchdemo.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

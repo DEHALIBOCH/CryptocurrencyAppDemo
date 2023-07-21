@@ -5,7 +5,7 @@ import androidx.compose.material.Surface
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.material.MaterialTheme
-import com.demoapp.cleanarchdemo.theme.CleanArchDemoTheme
+import com.demoapp.cleanarchdemo.presentation.ui.theme.CleanArchDemoTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
