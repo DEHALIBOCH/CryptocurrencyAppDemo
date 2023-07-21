@@ -1,4 +1,4 @@
-package com.demoapp.cleanarchdemo
+package com.demoapp.cleanarchdemo.presentation
 
 import android.os.Bundle
 import androidx.compose.material.Surface
