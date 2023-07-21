@@ -48,10 +48,6 @@ android {
     }
 }
 
-kapt {
-    correctErrorTypes true
-}
-
 dependencies {
 
     def compose_version = '1.0.1'
