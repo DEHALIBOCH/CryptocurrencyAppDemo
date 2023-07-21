@@ -1,8 +1,6 @@
 package com.demoapp.cleanarchdemo.data.repository
 
 import com.demoapp.cleanarchdemo.data.remote.CoinApi
-import com.demoapp.cleanarchdemo.data.remote.dto.CoinDetailDto
-import com.demoapp.cleanarchdemo.data.remote.dto.CoinDto
 import com.demoapp.cleanarchdemo.domain.model.Coin
 import com.demoapp.cleanarchdemo.domain.model.CoinDetail
 import com.demoapp.cleanarchdemo.domain.repository.CoinRepository
